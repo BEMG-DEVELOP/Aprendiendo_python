@@ -35,3 +35,8 @@ Pegada al inicio del renglon, de lo contrario saldra un error.
 Por alguna rara situacion, cuando coloco un comentario, genera un error sintaxis.
 Lo que me sorprendio es que debes escribir el codigo pegado al inicio, no debe de ver ningun
 espacio al inicio.
+# Sentencias
+Es una unidad de codigo que el interprete de Python puede ejecutar.
+Un script contiene una secuencia de sentencias, si hay mas de una sentencias
+los resultados aparecen de uno en uno segun se vayan ejecutando.
+@ Brian 
